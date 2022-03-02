@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello, Folks 👋
 
-<!--
-**Jolbertt/Jolbertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A litle bit of me
+- I've spent last 2 year's working in [Digifarma](https://www.digifarma.com.br) as CyberSecurity and Network Analyst.
+- I'm learning about Cloud and DevOps.
 
-Here are some ideas to get you started:
+## Thinks that i like!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/-Linux-important)
+![](https://img.shields.io/badge/-Bash-9cf)
+![](https://img.shields.io/badge/-PHP-blueviolet)
+![](https://img.shields.io/badge/-Python-gray)
+![](https://img.shields.io/badge/-Docker-blue)
+![](https://img.shields.io/badge/-MySQL-green)
+
+
+********
+
+<details>
+  <summary>📊 Github Stats</summary>
+
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jolbertt&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
+
+</details>
