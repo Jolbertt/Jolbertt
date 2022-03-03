@@ -4,7 +4,7 @@ A litle bit of me
 - I've spent last 2 year's working in [Digifarma](https://www.digifarma.com.br) as CyberSecurity and Network Analyst.
 - I'm learning about Cloud and DevOps.
 
-## Thinks that i like!!
+## Things that i like!!
 
 ![](https://img.shields.io/badge/-Linux-important)
 ![](https://img.shields.io/badge/-Bash-9cf)
