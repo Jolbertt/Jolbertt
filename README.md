@@ -20,5 +20,8 @@ A litle bit of me
   <summary>📊 Github Stats</summary>
 
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jolbertt&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jolbertt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 </details>
